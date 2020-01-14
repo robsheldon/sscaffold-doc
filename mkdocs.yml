@@ -1,0 +1,20 @@
+site_name: sscaffold-css documentation
+theme: readthedocs
+site_dir: ../doc-site
+nav:
+  - Home: index.md
+  - Getting Started:
+    - Using sscaffold: start/using/index.md
+  - Sections:
+    - Resets: sections/reset/index.md
+    - Layout Scaling: sections/scaling/index.md
+    - Flexbox-Based Columns: sections/flexbox/index.md
+    - 12-Column Grid: sections/12column/index.md
+    - Layout: sections/layout/index.md
+    - Utility Classes: sections/utility/index.md
+    - Default Theme: sections/theme/index.md
+  - Differences:
+    - from milligram: diff/milligram/index.md
+    - from skeleton: diff/skeleton/index.md
+  - Things to watch out for:
+    - Tables: ysk/tables/index.md
