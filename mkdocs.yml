@@ -1,6 +1,9 @@
 site_name: sscaffold-css documentation
 theme: readthedocs
 site_dir: ../doc-site
+site_url: https://doc.sscaffold-css.com/
+repo_url: https://github.com/robsheldon/sscaffold-doc/
+site_description: Documentation for sscaffold-css, lightweight css for people who build things
 nav:
   - Home: index.md
   - Getting Started:
